@@ -3,7 +3,7 @@ module go-mem-thief
 go 1.23
 
 require (
-	github.com/prometheus/client_golang v1.21.0
+	github.com/prometheus/client_golang v1.21.1
 	github.com/spf13/cobra v1.9.1
 )
 
